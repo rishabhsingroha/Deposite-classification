@@ -1,1 +1,1 @@
-# Deposite-classification
+# Bank-Deposit-Classification
